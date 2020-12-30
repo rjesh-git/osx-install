@@ -10,8 +10,8 @@ brew tap homebrew/cask-fonts
 brew tap azure/functions
 
 # install apps
-brew install nektos/tap/act
-brew install aom
+# brew install nektos/tap/act
+# brew install aom
 brew install asciinema
 brew install azure-cli
 brew install azure-functions-core-tools@3
@@ -19,12 +19,12 @@ brew install bash-completion
 brew install bfg
 brew install boost
 brew install cairo
-brew install carthage
+# brew install carthage
 brew install cask
 brew install docker-clean
 brew install docker-completion
 brew install docker-compose-completion
-brew install emacs
+# brew install emacs
 brew install ffmpeg
 brew install flac
 brew install fontconfig
@@ -101,7 +101,7 @@ brew install sdl2
 brew install snappy
 brew install speex
 brew install sphinx-doc
-brew install sqlite
+# brew install sqlite
 brew install tee-clc
 brew install tesseract
 brew install theora
@@ -120,7 +120,7 @@ brew install zsh
 brew install zsh-completions
 
 
-brew cask install adobe-creative-cloud
+
 brew cask install alfred
 brew cask install appcleaner
 brew cask install astropad
@@ -128,12 +128,12 @@ brew cask install azure-data-studio
 brew cask install bartender
 brew cask install bitbar
 brew cask install bot-framework-emulator
-brew cask install camtasia
+
 brew cask install charles
 brew cask install cheatsheet
 brew cask install docker
 brew cask install dotnet-sdk
-brew cask install elgato-stream-deck
+
 brew cask install firefox
 brew cask install focusrite-control
 brew cask install fritzing
@@ -154,7 +154,7 @@ brew cask install microsoft-teams
 brew cask install mono-mdk-for-visual-studio
 brew cask install ngrok
 brew cask install nosleep
-brew cask install parallels
+
 brew cask install postman
 brew cask install powershell
 brew cask install private-internet-access
@@ -164,9 +164,9 @@ brew cask install skype
 brew cask install slack
 brew cask install smartgit
 brew cask install smartsynchronize
-brew cask install snagit
+
 brew cask install steam
-brew cask install sublime-text
+
 brew cask install tripmode
 brew cask install visual-studio
 brew cask install visual-studio-code
@@ -174,4 +174,4 @@ brew cask install vlc
 brew cask install webcatalog
 brew cask install wireshark
 brew cask install xmind
-brew cask install zoomus
+
